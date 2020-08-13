@@ -1,6 +1,11 @@
 # FHS-refactoring-hw2
 Updated refactoring homework 1 for resubmission 
 
+here's the link to the page:   https://fhsal.github.io/FHS-refactoring-hw2/
+
+I have also added an image of the updated page to the repo as the grader suggested
+
+
 Refactoring actions:
 
 > renamed page to be less generic 
@@ -13,5 +18,5 @@ Refactoring actions:
 
 > fixed the links on the top of the page so they referenced the below sections properly for navigation to those areas of the page 
 
-Here’s an image of the updated page
+
 
